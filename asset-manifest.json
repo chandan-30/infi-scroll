@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/infinity-scroll/static/css/main.1e322f50.css",
+    "main.js": "/infinity-scroll/static/js/main.106acfa3.js",
+    "static/js/787.cda612ba.chunk.js": "/infinity-scroll/static/js/787.cda612ba.chunk.js",
+    "static/media/giphy-unscreen.gif": "/infinity-scroll/static/media/giphy-unscreen.0060dc8a108e328ffea3.gif",
+    "index.html": "/infinity-scroll/index.html",
+    "main.1e322f50.css.map": "/infinity-scroll/static/css/main.1e322f50.css.map",
+    "main.106acfa3.js.map": "/infinity-scroll/static/js/main.106acfa3.js.map",
+    "787.cda612ba.chunk.js.map": "/infinity-scroll/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e322f50.css",
+    "static/js/main.106acfa3.js"
+  ]
+}
